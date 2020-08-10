@@ -1,0 +1,23 @@
+/*
+ * Example usage:
+ * <div class="blinking" style="--rate: 1s">this will blink</div>
+ */
+
+.blinking {
+    animation: blinking-animation var(--rate) linear infinite;
+}
+
+@keyframes blinking-animation {
+    0% {
+        opacity: 1;
+    }
+    49% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
