@@ -1,0 +1,16 @@
+{
+  "name": "blinking.css",
+  "version": "1.0.0",
+  "description": "CSS helper for blinking content",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fitztrev/blinking.css.git"
+  },
+  "keywords": [
+    "css",
+    "blinking"
+  ],
+  "author": "Trevor Fitzgerald",
+  "license": "MIT",
+  "homepage": "https://github.com/fitztrev/blinking.css"
+}
